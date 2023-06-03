@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="380" margin-right= "35px" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
+<img align="right" alt="Coding" width="380" margin= "35px" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
 <h1 align="center">Hi 👋, I'm Omer</h1>
 <h3 align="center">A passionate backend developer from Turkey. I am a highly motivated and detail-oriented backend developer with a strong passion for creating efficient and scalable solutions.
